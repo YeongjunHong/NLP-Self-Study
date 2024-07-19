@@ -6,7 +6,7 @@ A few lines of code will be uploaded.
 
 Codes will be Refactored as soon as the end of self exercise
 
-Recap might be availableo on [my Github blog] later (https://yeongjunhong.github.io) 
+Recap might be availableo on [my Github blog](https://yeongjunhong.github.io) sooner or later
 
 
 
